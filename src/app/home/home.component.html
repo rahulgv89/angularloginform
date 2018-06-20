@@ -1,0 +1,12 @@
+<p>
+  Welcome 
+  <a routerLink="/">Logout</a>
+</p>
+<div class = "admin">
+  <h2>Data List</h2>
+  
+  <ul *ngFor="let employee of employees">
+  <li>{{employee.name}} -  {{employee.position}} - {{employee.country}}</li>
+</ul>
+
+</div>

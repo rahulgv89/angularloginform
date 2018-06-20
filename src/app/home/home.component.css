@@ -1,0 +1,17 @@
+.admin{
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 3px solid peru;
+    padding: 20px;
+}
+h2 {
+    color: green;
+}
+li{
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 14px;
+    color: blueviolet;
+}

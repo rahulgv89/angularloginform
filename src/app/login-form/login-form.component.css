@@ -1,0 +1,33 @@
+.container{
+		position: relative;
+		bottom: 0;
+		top: 100px;
+	    height: 200px;
+		margin: auto;
+		width: 300px;
+		border: 3px solid green;
+		padding: 10px;
+		flex-grow: 1;
+		justify-content: center;
+	    align-items: center;
+	
+}
+
+       .row1{
+		position: relative;
+		padding: 15px;
+	   }
+	   .row2{
+		position: relative;
+		padding: 15px;
+	   }
+	   button{
+		position: relative;
+		float: left;
+		left: 12px;
+		padding: 10px;
+	   }
+	   .title{
+		position: relative;
+	    left: 12px;
+	   }
